@@ -1,1 +1,1 @@
-Line 1: added on local repository
+Line 1: Conflict resolved by clearing all text and this line added on local repository
