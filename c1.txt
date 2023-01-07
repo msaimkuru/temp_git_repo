@@ -1,1 +1,2 @@
+line 0: line 0 added on remote repository.
 line 1: first line added.
